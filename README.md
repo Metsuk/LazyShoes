@@ -12,4 +12,4 @@ Segmento: _Produtora de Patins Elétricos_
 
 **Objetivo:** Nosso site precisa passar a sensação de liberdade e praticidade ao consumidor, e no fim fazer com que ele entre em contato para encomendar seu patins elétrico.
 
-OBS: A principal fonte para fazer esse desafio, foi o site do [Beauty Salon](https://metsuk.github.io/beautysalon/).
+OBS: A principal fonte para fazer esse desafio, foram as aulas da NLW - together (@rocketseat).
