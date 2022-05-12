@@ -13,3 +13,5 @@ Segmento: _Produtora de Patins Elétricos_
 **Objetivo:** Nosso site precisa passar a sensação de liberdade e praticidade ao consumidor, e no fim fazer com que ele entre em contato para encomendar seu patins elétrico.
 
 OBS: A principal fonte para fazer esse desafio, foram as aulas da NLW - together (@rocketseat).
+
+![image](https://user-images.githubusercontent.com/91072603/168130198-952138e0-51f3-4629-8c7a-efa30cfbbc91.png)
